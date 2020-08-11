@@ -1,4 +1,4 @@
-Convert Csv files into appropriate JSON format for AWS's Lex Bot
+Convert Csv files into appropriate and formatted JSON for AWS's Lex Bot
 prerequisites: 
   The .csv file must follow the format of 1st column "values" and "synonyms" to be placed in proceeding columns.  
   EX: 
